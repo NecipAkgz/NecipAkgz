@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **necip.akgoz@gmail.com**
 
-- ⚡ Curated tools that will be useful for your development **https://tools.necipak.tk/**
+- ⚡ Curated tools that will be useful for your development **https://toolbox.necipakgoz.dev/**
 
 <br/>
 
