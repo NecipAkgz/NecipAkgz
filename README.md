@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [web-toolbox](https://github.com/NecipAkgz/tools.alldesign)
 
-- 🌱 I’m currently learning **Next JS, Rust**
+- 🌱 I’m currently learning **C#, PHP**
 
 - 📫 How to reach me **necip.akgoz@gmail.com**
 
