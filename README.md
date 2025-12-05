@@ -5,8 +5,6 @@
 - I work with modern stacks in JavaScript, TypeScript, Python and cloud platforms  
 - I am expanding my experience with smart contracts, ZK systems and Web3 frameworks  
 - I am improving myself with C# and PHP  
-- Contact: **necip.akgoz@gmail.com**  
-- Toolbox: **https://toolbox.necipakgoz.dev**
 
 <br/>
 
